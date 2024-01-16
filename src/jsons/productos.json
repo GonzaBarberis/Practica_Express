@@ -1,0 +1,35 @@
+{
+    "productos":[
+        {
+            "id":1,
+            "nombre":"Gorra NY",
+            "desc":"Gorra color azul con logo NY",
+            "precio":8000
+        },
+        {
+            "id":2,
+            "nombre":"Gorra A",
+            "desc":"Gorra color negra con logo Astros",
+            "precio":8000
+        },
+        {
+            "id":3,
+            "nombre":"Gorra LA",
+            "desc":"Gorra color negra con logo Los Angeles",
+            "precio":8500
+        },
+        {
+            "id":4,
+            "nombre":"Gorra Nike Travel",
+            "desc":"Gorra color blanca con logo Nike",
+            "precio":8500
+        },
+        {
+            "id":5,
+            "nombre":"Gorra Goorin",
+            "desc":"Gorra color blanca y roja con animal impreso",
+            "precio":9000
+        }
+
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "vendedores":[
+        {
+            "id":1,
+            "nombre":"Fabrizio",
+            "apellido":"Alvarez",
+            "puesto":"Encargado"
+        },
+        {
+            "id":2,
+            "nombre":"Gonzalo",
+            "apellido":"Barberis",
+            "puesto":"Empleado"
+        },
+        {
+            "id":3,
+            "nombre":"Agustín",
+            "apellido":"Mansilla",
+            "puesto":"Personal Limpieza"
+        }
+    ]
+}
